@@ -179,16 +179,22 @@
     gap: 40px;
     text-align: center;
     margin-bottom: 60px;
+    justify-items: center; /* center grid items horizontally */
   }
 
   .who-we-are-about .text-content,
   .what-we-do-about .text-content {
     padding: 0;
+    margin: 0 auto; /* center text block */
+    text-align: center; /* center text inside */
+    justify-self: center; /* ensure centered in grid cell */
   }
 
   .who-we-are-about .image-placeholder-large,
   .what-we-do-about .image-placeholder-medium {
     height: 300px;
+    margin: 0 auto; /* center image block */
+    justify-self: center; /* ensure centered in grid cell */
   }
 
   .section-title {
@@ -210,11 +216,21 @@
   .what-we-do-about {
     gap: 30px;
     margin-bottom: 40px;
+    justify-items: center; /* ensure center on small screens */
   }
 
   .who-we-are-about .image-placeholder-large,
   .what-we-do-about .image-placeholder-medium {
     height: 250px;
+    margin: 0 auto;
+    justify-self: center;
+  }
+
+  .who-we-are-about .text-content,
+  .what-we-do-about .text-content {
+    margin: 0 auto;
+    text-align: center;
+    justify-self: center;
   }
 
   .section-title {

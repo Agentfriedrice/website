@@ -5,6 +5,7 @@
   min-height: 100vh;
   padding: 5px 20px 40px 20px;
   position: relative;
+  overflow: visible;
 }
 
 .artifact-description-content {
@@ -16,6 +17,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  overflow: visible;
 }
 
 // Main content container
@@ -28,6 +30,7 @@
   max-width: 1400px;
   margin: 0 auto;
   position: relative;
+  overflow: visible;
 }
 
 // Left image collage
@@ -80,7 +83,9 @@
   min-width: 800px;
   justify-content: center;
   padding-top: 20px;
+  overflow: visible;
 }
+
 
 
 // Category subtitle
@@ -92,6 +97,7 @@
   text-transform: uppercase;
   letter-spacing: 0.1em;
   text-shadow: 2px 2px 4px rgba(255, 255, 255, 0.8);
+  margin-top: -50px; /* was -130px - brought down by 80px */
 }
 
 // Description box with torn edges
@@ -169,10 +175,14 @@
     padding: 30px;
     min-height: 500px;
     min-width: 600px;
-    background-size: 75%;
+    background-size: 85%;
     background-position: center top;
     justify-content: center;
     padding-top: 15px;
+  }
+  
+  .category-subtitle {
+    margin-top: -20px; /* was -100px - brought down by 80px */
   }
   
   
@@ -199,35 +209,45 @@
   }
   
   .artifact-main-content {
-    // No grid layout needed with absolute positioning
+    flex-direction: column; /* stack: top (left images), middle (center), bottom (right image) */
+    align-items: center;
+    justify-content: center;
   }
   
   .center-content {
-    padding: 30px;
+    padding: 25px 40px;
     min-height: 400px;
     min-width: 500px;
-    background-size: 75%;
+    background-size: 90%;
     background-position: center top;
     justify-content: center;
-    padding-top: 15px;
+    padding-top: 30px;
+    order: 2;
   }
   
   .left-image-collage {
-    left: 20px;
-    transform: translateY(-50%) rotate(-3deg);
+    position: static; /* remove absolute for stacking */
+    transform: none; /* reset rotation/translation */
+    display: flex;
+    flex-direction: row; /* 1 row, 3 columns */
+    align-items: center;
+    justify-content: center;
+    gap: 16px;
+    order: 1;
+    margin-bottom: 12px;
     
     .polaroid-image {
       max-width: 120px;
       height: 100px;
+      transform: rotate(-2deg);
     }
   }
   
-  .center-content {
-    // No order needed with absolute positioning
-  }
-  
   .right-image {
-    right: 20px;
+    position: static; /* move below */
+    transform: none;
+    order: 3;
+    margin-top: 12px;
     
     .single-polaroid {
       max-width: 150px;
@@ -243,6 +263,7 @@
   
   .category-subtitle {
     font-size: 1.8rem;
+    margin-top: 0px; /* was -80px - brought down by 80px */
   }
   
   .description-box {
@@ -250,59 +271,70 @@
     max-width: 450px;
     
     .description-text {
-      font-size: 2rem;
-      line-height: 3rem;
+      font-size: 1.5rem;
     }
   }
 }
 
 @media screen and (max-width: 600px) {
-  .artifact-description-about {
-    padding: 5px 10px 20px 10px;
-    min-height: 60vh;
-  }
-  
+  .artifact-description-about { overflow: visible; }
+  .artifact-description-content { overflow: visible; }
+  .artifact-main-content { overflow: visible; }
   .center-content {
     padding: 15px;
-    min-height: 350px;
-    min-width: 300px;
-    background-size: 65%;
+    min-height: 400px;
+    min-width: 350px;
+    background-size: contain;
     background-position: center top;
     justify-content: center;
     padding-top: 10px;
+    order: 2;
+    overflow: visible;
   }
   
   .left-image-collage {
-    left: 10px;
-    transform: translateY(-50%) rotate(-2deg);
+    position: static;
+    transform: none;
+    display: flex;
+    flex-direction: row; /* 1 row, 3 columns */
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    order: 1;
+    margin-bottom: 10px;
     
     .polaroid-image {
-      max-width: 80px;
-      height: 60px;
+      max-width: 90px;
+      height: 70px;
+      transform: rotate(-1.5deg);
     }
   }
   
   .right-image {
-    right: 10px;
+    position: static;
+    transform: none;
+    order: 3;
+    margin-top: -100px;
     
     .single-polaroid {
-      max-width: 100px;
-      height: 80px;
+      max-width: 120px;
+      height: 95px;
     }
   }
   
   
   .category-subtitle {
     font-size: 1.4rem;
+    margin-top: -80px; /* mobile-specific margin-top */
   }
   
   .description-box {
     padding: 20px;
     max-width: 250px;
+    margin-top: -20px; /* move description up slightly */
     
     .description-text {
-      font-size: 2rem;
-      line-height: 3rem;
+      font-size: 1.2rem;
     }
   }
 }
