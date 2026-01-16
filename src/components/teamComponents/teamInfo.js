@@ -273,63 +273,75 @@ export const teamInfo = [
     position: "Marketing"
   },
   {
+    //change pic
     picture: () => import("../../static/team/Mia_Elliott.jpg"),
-    name: "Mia Elliott",
+    name: "Venice Poggi",
     position: "Stylist"
   },
   {
+    //change
     picture: () => import("../../static/team/Aimi_Kim.jpeg"),
-    name: "Aimi Kim",
+    name: "John Noah Pope",
     position: "Stylist",
   },
   {
+    //change
     picture: () => import("../../static/team/Anthony_Mercado.jpeg"),
     name: "Anthony Mercado",
     position: "Stylist",
   },
   {
+    //change
     picture: () => import("../../static/team/Daniel_Nepomuceno.jpg"),
-    name: "Daniel Nepomuceno",
+    name: "Kaylie Camacho",
     position: "Stylist"
   },
   {
+    //change
     picture: () => import("../../static/team/Jersey_Rosetes.jpeg"),
-    name: "Jersey Rosetes",
-    position: "Stylist"
-  },
-  {
-    picture: () => import("../../static/team/John_Noah_Pope.JPG"),
-    name: "John Noah Pope",
-    position: "Stylist"
-  },
-  {
-    picture: () => import("../../static/team/Ky_en_dokes.JPG"),
-    name: "Ky'en Dokes",
-    position: "Stylist"
-  },
-  {
-    picture: () => import("../../static/team/Nel_Satriya.jpg"),
-    name: "Nel Satriya",
-    position: "Stylist"
-  },
-  { 
-    picture: () => import("../../static/team/Talia_Thessen.JPG"),
     name: "Talia Thessen",
     position: "Stylist"
   },
   {
+    //change
+    picture: () => import("../../static/team/John_Noah_Pope.JPG"),
+    name: "Miguel Orozco",
+    position: "Stylist"
+  },
+  {
+    //change
+    picture: () => import("../../static/team/Ky_en_dokes.JPG"),
+    name: "Kevin Garcia",
+    position: "Stylist"
+  },
+  {
+    //change
+    picture: () => import("../../static/team/Nel_Satriya.jpg"),
+    name: "Sophie Zhang",
+    position: "Stylist"
+  },
+  { 
+    //change
+    picture: () => import("../../static/team/Talia_Thessen.JPG"),
+    name: "Perla Perez",
+    position: "Stylist"
+  },
+  {
+    //change
     picture: () => import("../../static/team/Venice_Poggi.JPG"),
-    name: "Venice Poggi",
+    name: "Katie Chang",
     position: "Stylist"
   },
   {
+    //change
     picture: () => import("../../static/team/Amy_Wong.jpeg"),
-    name: "Amy Wong",
+    name: "Matthew Caram",
     position: "Stylist"
   },
   {
+    //change
     picture: () => import("../../static/team/Kaylie_Camacho.jpeg"),
-    name: "Kaylie Camacho",
+    name: "Mariah DeMordaunt",
     position: "Stylist"
   },
   {
