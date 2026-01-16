@@ -26,8 +26,7 @@ export const teamInfo = [
     position: "Photographer"
   },
   {
-    //Old picture
-    picture: () => import("../../static/team/Natalie_Kong.jpg"),
+    picture: () => import("../../static/team/Natalie_Kong2.jpg"),
     name: "Natalie Kong",
     position: "Photographer"
   },
@@ -72,8 +71,7 @@ export const teamInfo = [
     position: "Photographer"
   },
   {
-    //Old picture
-    picture: () => import("../../static/team/Vanessa_Mak.JPG"),
+    picture: () => import("../../static/team/Roxanne_Mayali.jpg"),
     name: "Roxanne Mayali",
     position: "Photographer"
   },
