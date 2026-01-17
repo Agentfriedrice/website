@@ -337,42 +337,44 @@ export const teamInfo = [
     position: "Stylist"
   },
   {
-    picture: () => import("../../static/team/Zander_Vilaysane.JPG"),
+    picture: () => import("../../static/team/Taira_Sakamoto.jpg"),
     name: "Taira Sakamoto",
     position: "Web Developer",
   },
   {
-    picture: () => import("../../static/team/Catherine_Hoang.JPG"),
+    picture: () => import("../../static/team/Angelo_Belardo.jpg"),
     name: "Angelo Belardo",
     position: "Web Developer"
   },
   {
-    picture: () => import("../../static/team/Edna_Ho.JPG"),
+    picture: () => import("../../static/team/Nadine_Arugulles.jpg"),
     name: "Nadine Arguelles",
     position: "Web Developer"
   },
   {
+    //change
     picture: () => import("../../static/team/Jay_Gao.JPG"),
     name: "Brina Wang",
     position: "Web Developer"
   },
   {
-    picture: () => import("../../static/team/Nelson_Chen.JPG"),
+    picture: () => import("../../static/team/Kaylie_Lai.jpg"),
     name: "Kaylie Lai",
     position: "Web Developer"
   },
   {
-    picture: () => import("../../static/team/Olivia_Garrett.JPG"),
+    picture: () => import("../../static/team/Breck_Abugan.jpg"),
     name: "Breck Abugan",
     position: "Web Developer"
   },
     {
+    //change
     picture: () => import("../../static/team/Olivia_Garrett.JPG"),
     name: "Roxanne Wang",
     position: "Web Developer"
   },
   {
-    picture: () => import("../../static/team/Olivia_Garrett.JPG"),
+    picture: () => import("../../static/team/Elisa_Le.jpg"),
     name: "Elisa Le",
     position: "Web Developer"
   },
