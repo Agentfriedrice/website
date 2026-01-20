@@ -5,7 +5,7 @@ export const teamInfo = [
     position: "Editor in Chief"
   },
   {
-    picture: () => import("../../static/team/Maggie_Blaisdell.CR3"),
+    picture: () => import("../../static/team/Maggie_Blaisdell.jpg"),
     name: "Maggie Blaisdell",
     position: "Editor in Chief"
   },
