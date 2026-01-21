@@ -55,38 +55,23 @@ export const teamInfo = [
     position: "Photographer"
   },
   {
-    picture: () => import("../../static/team/Ryan_Pocinich.jpg"),
-    name: "Ryan Pocinich",
+    picture: () => import("../../static/team/Maikle_Low.jpeg"),
+    name: "Maikle Low",
     position: "Writer",
   },
   {
-    picture: () => import("../../static/team/Ahliyah_Luna.jpeg"),
+    picture: () => import("../../static/team/Ahliyah_Luna.JPG"),
     name: "Ahliyah Luna",
     position: "Writer"
   },
   {
-    picture: () => import("../../static/team/Alex_Lara.jpeg"),
-    name: "Alex Lara",
+    picture: () => import("../../static/team/Emma_Cho.jpg"),
+    name: "Emma Cho",
     position: "Writer",
   },
   {
-    picture: () => import("../../static/team/Samantha_Pham.jpeg"),
-    name: "Sammy Phan",
-    position: "Writer"
-  },
-  {
-    picture: () => import("../../static/team/Julian_Aguilar.jpg"),
-    name: "Julian Aguilar",
-    position: "Writer"
-  },
-  {
-    picture: () => import("../../static/team/Preeya_Govil.jpeg"),
-    name: "Preeya Govil",
-    position: "Writer"
-  },
-  {
-    picture: () => import("../../static/team/Grace_Morton.jpg"),
-    name: "Grace Morton",
+    picture: () => import("../../static/team/Camille_de_la_Cruz.jpg"),
+    name: "Camille de la Cruz",
     position: "Writer"
   },
   {
@@ -95,8 +80,28 @@ export const teamInfo = [
     position: "Writer"
   },
   {
-    picture: () => import("../../static/team/Sydney_McDonald.jpg"),
+    picture: () => import("../../static/team/Diandra_Sahouria.jpeg"),
+    name: "Diandra Sahouria",
+    position: "Writer"
+  },
+  {
+    picture: () => import("../../static/team/.jpg"),
+    name: "Carlos Rocha",
+    position: "Writer"
+  },
+  {
+    picture: () => import("../../static/team/.jpeg"),
+    name: "Preeya Govil",
+    position: "Writer"
+  },
+  {
+    picture: () => import("../../static/team/.jpg"),
     name: "Sydney McDonald",
+    position: "Writer"
+  },
+  {
+    picture: () => import("../../static/team/.jpg"),
+    name: "Thanh Le",
     position: "Writer"
   },
   {
