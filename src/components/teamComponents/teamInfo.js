@@ -160,11 +160,6 @@ export const teamInfo = [
     position: "External"
   },
   {
-    picture: () => import("../../static/team/Ashley_djunaedi.JPG"),
-    name: "Ashley Djunaedi",
-    position: "External"
-  },
-  {
     picture: () => import("../../static/team/Dani_Rodriguez_Arzate.jpg"),
     name: "Dani Rodriguez Arzate",
     position: "External"
@@ -189,49 +184,45 @@ export const teamInfo = [
     name: "Viviana Espino",
     position: "External"
   },
+  /////////
   {
-    picture: () => import("../../static/team/Ishani_Solanki.jpg"),
+    picture: () => import("../../static/team/Ishani_Solanki.jpeg"),
     name: "Ishani Solanki ",
     position: "Marketing"
   },
   {
-    picture: () => import("../../static/team/Jasleen_Sahota.jpg"),
-    name: "Jasleen Sahota",
+    picture: () => import("../../static/team/Cameron_Cao.jpeg"),
+    name: "Cameron Cao",
     position: "Marketing"
   },
   {
-    picture: () => import("../../static/team/Andy_Metcalf.jpg"),
+    picture: () => import("../../static/team/Andy_Metcalf.jpeg"),
     name: "Andy Metcalf",
     position: "Marketing"
   },
   {
-    picture: () => import("../../static/team/Ann_Yang.jpg"),
-    name: "Ann Yang",
-    position: "Marketing"
-  },
-  {
-    picture: () => import("../../static/team/Cameron_Cao.JPG"),
-    name: "Cameron Cao",
+    picture: () => import("../../static/team/Nicoletta_Gagliano.jpeg"),
+    name: "Nicoletta Gagliano",
     position: "Marketing"
   },
   { 
-    picture: () => import("../../static/team/Dilan_Adhikari.jpg"),
-    name: "Dilan Adhikari",
+    picture: () => import("../../static/team/Nikole_Munoz.jpeg"),
+    name: "Nikole Munoz",
     position: "Marketing"
   },
   {
-    picture: () => import("../../static/team/Eric_Wang.JPG"),
+    picture: () => import("../../static/team/Eric_Wang.jpeg"),
     name: "Eric Wang",
     position: "Marketing"
   },
   {
-    picture: () => import("../../static/team/Isabelle_Liang.jpg"),
-    name: "Isabelle Liang",
+    picture: () => import("../../static/team/Christopher_Cervantes.jpeg"),
+    name: "Christopher Cervantes",
     position: "Marketing"
   },
   {
-    picture: () => import("../../static/team/Kadie_Qi.jpg"),
-    name: "Kadie Qi",
+    picture: () => import("../../static/team/Chista_Irani.jpeg"),
+    name: "Chista Irani",
     position: "Marketing"
   },
   {
@@ -240,15 +231,37 @@ export const teamInfo = [
     position: "Marketing"
   },
   {
-    picture: () => import("../../static/team/Maggie_Blaisdell.jpg"),
-    name: "Maggie Blaisdell",
+    picture: () => import("../../static/team/Ashley_Djunaedi.jpeg"),
+    name: "Ashley Djunaedi",
     position: "Marketing"
   },
   {
-    picture: () => import("../../static/team/Rylee_Boyles.JPG"),
+    picture: () => import("../../static/team/Rylee_Boyles.jpeg"),
     name: "Rylee Boyles",
     position: "Marketing"
   },
+  {
+    picture: () => import("../../static/team/Maya_Thankamushy.jpeg"),
+    name: "Maya Thankamushy",
+    position: "Marketing"
+  },
+  {
+    picture: () => import("../../static/team/Mari_Bautista.jpeg"),
+    name: "Mari Bautista",
+    position: "Marketing"
+  },
+  {
+    picture: () => import("../../static/team/Rochelle_Pimental.jpeg"),
+    name: "Rochelle Pimental",
+    position: "Marketing"
+  },
+  {
+    picture: () => import("../../static/team/Shayla_Nguyen.jpeg"),
+    name: "Shayla Nguyen",
+    position: "Marketing"
+  },
+
+  //////////
   {
     picture: () => import("../../static/team/Mia_Elliott.jpg"),
     name: "Mia Elliott",
