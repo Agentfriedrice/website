@@ -85,22 +85,22 @@ export const teamInfo = [
     position: "Writer"
   },
   {
-    picture: () => import("../../static/team/.jpg"),
+    picture: () => import("../../static/team/blank.jpeg"),
     name: "Carlos Rocha",
     position: "Writer"
   },
   {
-    picture: () => import("../../static/team/.jpeg"),
+    picture: () => import("../../static/team/blank.jpeg"),
     name: "Preeya Govil",
     position: "Writer"
   },
   {
-    picture: () => import("../../static/team/.jpg"),
+    picture: () => import("../../static/team/blank.jpeg"),
     name: "Sydney McDonald",
     position: "Writer"
   },
   {
-    picture: () => import("../../static/team/.jpg"),
+    picture: () => import("../../static/team/blank.jpeg"),
     name: "Thanh Le",
     position: "Writer"
   },
