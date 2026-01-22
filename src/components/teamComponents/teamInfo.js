@@ -21,7 +21,7 @@ export const teamInfo = [
     position: "Photographer"
   },
   {
-    picture: () => import("../../static/team/Jersey Rosetes.JPG"),
+    picture: () => import("../../static/team/Jersey_Rosetes.JPG"),
     name: "Jersey Rosetes",
     position: "Photographer"
   },
@@ -51,7 +51,7 @@ export const teamInfo = [
     position: "Photographer"
   },
   {
-    picture: () => import("../../static/team/Muhammad_Hilman.JPG"),
+    picture: () => import("../../static/team/Muhammed_Hilman.JPG"),
     name: "Hilman Muhammad",
     position: "Photographer"
   },
@@ -235,7 +235,6 @@ export const teamInfo = [
     name: "Zella Lucas",
     position: "External"
   },
-  /////////
   {
     picture: () => import("../../static/team/Ishani_Solanki.jpeg"),
     name: "Ishani Solanki ",
@@ -315,7 +314,7 @@ export const teamInfo = [
   },
   {
     //change
-    picture: () => import("../../static/team/Jersey_Rosetes.jpeg"),
+    picture: () => import("../../static/team/blank.jpeg"),
     name: "Talia Thessen",
     position: "Stylist"
   },
