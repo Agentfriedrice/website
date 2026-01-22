@@ -26,7 +26,9 @@ export const teamInfo = [
     position: "Photographer"
   },
   {
-    picture: () => import("../../static/team/Natalie_Kong2.JPG"),
+    //picture: () => import("../../static/team/Natalie_Kong2.JPG"),
+    import NataliePic from '../../static/team/Natalie_Kong2.JPG';
+    picture: NataliePic,
     name: "Natalie Kong",
     position: "Photographer"
   },
