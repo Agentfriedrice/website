@@ -165,7 +165,7 @@ export const teamInfo = [
     position: "External"
   },
   {
-    picture: () => import("../../static/team/Catherine_Hoang.jpg"),
+    picture: () => import("../../static/team/Catherine_Hoang.JPG"),
     name: "Catherine Hoang",
     position: "External"
   },
@@ -353,11 +353,6 @@ export const teamInfo = [
     picture: () => import("../../static/team/Zander_Vilaysane.JPG"),
     name: "Zander Vilaysane",
     position: "Web Developer",
-  },
-  {
-    picture: () => import("../../static/team/Catherine_Hoang.JPG"),
-    name: "Catherine Hoang",
-    position: "Web Developer"
   },
   {
     picture: () => import("../../static/team/Edna_Ho.JPG"),
