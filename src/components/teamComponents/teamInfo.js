@@ -372,7 +372,6 @@ export const teamInfo = [
     position: "Web Developer"
   },
   {
-    //change
     picture: () => import("../../static/team/Brina_Wang.jpg"),
     name: "Brina Wang",
     position: "Web Developer"
