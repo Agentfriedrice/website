@@ -81,7 +81,7 @@ export const teamInfo = [
     position: "Writer"
   },
   {
-    picture: () => import("../../static/team/Maikle_Low.jpeg"),
+    picture: () => import("../../static/team/Maikle_Low.JPG"),
     name: "Maikle Low",
     position: "Writer",
   },
@@ -116,12 +116,13 @@ export const teamInfo = [
     name: "Preeya Govil",
     position: "Writer"
   },
+  */
   {
-    picture: () => import("../../static/team/blank.jpeg"),
+    picture: () => import("../../static/team/Sydney_Mcdonald.jpeg"),
     name: "Sydney McDonald",
     position: "Writer"
   },
-  */
+  
   {
     picture: () => import("../../static/team/Jon_Picinich.jpg"),
     name: "Jon Picinich",
@@ -314,7 +315,6 @@ export const teamInfo = [
     position: "Stylist"
   },
   {
-    //change
     picture: () => import("../../static/team/Talia_Thessen.jpeg"),
     name: "Talia Thessen",
     position: "Stylist"
@@ -330,8 +330,7 @@ export const teamInfo = [
     position: "Stylist"
   },
   {
-    //change
-    picture: () => import("../../static/team/Nel_Satriya.jpg"),
+    picture: () => import("../../static/team/Sophie_Zhang.jpeg"),
     name: "Sophie Zhang",
     position: "Stylist"
   },
@@ -341,14 +340,12 @@ export const teamInfo = [
     position: "Stylist"
   },
   {
-    //change
     picture: () => import("../../static/team/Katie_Chang.jpeg"),
     name: "Katie Chang",
     position: "Stylist"
   },
   {
-    //change
-    picture: () => import("../../static/team/Amy_Wong.jpeg"),
+    picture: () => import("../../static/team/Matthew_Caram.JPG"),
     name: "Matthew Caram",
     position: "Stylist"
   },
