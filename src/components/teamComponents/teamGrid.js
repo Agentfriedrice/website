@@ -33,6 +33,7 @@ class TeamGrid extends React.Component {
                   picture={teamMember.picture}
                   name={teamMember.name}
                   pronouns={teamMember.pronouns}
+                  major={teamMember.major}
                   about={teamMember.about}
                 />
               </div>
