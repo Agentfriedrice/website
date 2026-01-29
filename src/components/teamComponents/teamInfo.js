@@ -106,7 +106,7 @@ export const teamInfo = [
     position: "Writer"
   },
   {
-    picture: () => import("../../static/team/blank.jpeg"),
+    picture: () => import("../../static/team/Carlos_Rocha.JPG"),
     name: "Carlos Rocha",
     position: "Writer"
   },
@@ -191,7 +191,7 @@ export const teamInfo = [
     position: "External"
   },
   {
-    picture: () => import("../../static/team/Leah_Jenkins.JPG"),
+    picture: () => import("../../static/team/Kshitij_Uddagatti.JPG"),
     name: "Kshitij Uddagatti",
     position: "External"
   },
