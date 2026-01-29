@@ -4,7 +4,7 @@ import FeaturedIssue from "../components/homeComponents/featuredIssue";
 import WhoWeAre from "../components/homeComponents/whoWeAre";
 import HomepageVideo from "../components/homeComponents/homepageVideo.js";
 import Blogs from "../components/homeComponents/blogs.js";
-import Upcoming from "../components/homeComponents/upcomingEvents";
+//import Upcoming from "../components/homeComponents/upcomingEvents";
 import YouTrend from "../components/homeComponents/youTrend.js";
 import "../styles/Home.scss";
 
