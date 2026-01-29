@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktrend_website=self.webpackChunktrend_website||[]).push([[5164],{5164:(e,s,t)=>{e.exports=t.p+"static/media/Diandra_Sahouria.6048db3160d3305c9b4d.jpeg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktrend_website=self.webpackChunktrend_website||[]).push([[7184],{7184:(e,s,t)=>{e.exports=t.p+"static/media/Priscila_Ran.28d53a2ec90b4a02b3f9.jpg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktrend_website=self.webpackChunktrend_website||[]).push([[2421],{2421:(e,s,t)=>{e.exports=t.p+"static/media/Angelo_Belardo.9a6d3a72a11471ff7fc8.jpg"}}]);

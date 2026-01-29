@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktrend_website=self.webpackChunktrend_website||[]).push([[9225],{9225:(e,s,t)=>{e.exports=t.p+"static/media/Eric_Wang.19a6ff1e93fced280d9c.jpeg"}}]);

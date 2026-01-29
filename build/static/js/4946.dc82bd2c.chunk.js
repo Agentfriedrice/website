@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktrend_website=self.webpackChunktrend_website||[]).push([[4946],{4946:(e,s,t)=>{e.exports=t.p+"static/media/Chista_Irani.06ce7da5a3103e9b543a.jpeg"}}]);

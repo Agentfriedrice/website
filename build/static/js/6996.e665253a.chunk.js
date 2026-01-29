@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktrend_website=self.webpackChunktrend_website||[]).push([[6996],{6996:(e,t,s)=>{e.exports=s.p+"static/media/Cathy_Zhou.56d5fc5527ca733bdf91.JPG"}}]);

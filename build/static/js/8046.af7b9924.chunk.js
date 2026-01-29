@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktrend_website=self.webpackChunktrend_website||[]).push([[8046],{8046:(e,t,s)=>{e.exports=s.p+"static/media/Althea_Allen.80f5ac8ea9267ca08c35.JPG"}}]);

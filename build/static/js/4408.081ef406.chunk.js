@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktrend_website=self.webpackChunktrend_website||[]).push([[4408],{4408:(e,t,a)=>{e.exports=a.p+"static/media/Nicoletta_Gagliano.980b45fe89f29caa11ec.jpeg"}}]);

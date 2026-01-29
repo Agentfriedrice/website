@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktrend_website=self.webpackChunktrend_website||[]).push([[4179],{4179:(e,s,t)=>{e.exports=t.p+"static/media/Josephine_Jukita.2e25865b89f1cb4bc26c.jpg"}}]);

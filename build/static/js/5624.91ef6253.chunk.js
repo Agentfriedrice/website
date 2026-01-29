@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktrend_website=self.webpackChunktrend_website||[]).push([[5624],{5624:(e,t,s)=>{e.exports=s.p+"static/media/ Natalie_Kong2.44be6f775a420bc92742.JPG"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktrend_website=self.webpackChunktrend_website||[]).push([[1912],{1912:(e,s,t)=>{e.exports=t.p+"static/media/Kaylie_Camacho.c4b9be4ba3802fd7377f.jpeg"}}]);

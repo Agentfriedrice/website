@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktrend_website=self.webpackChunktrend_website||[]).push([[8631],{8631:(e,s,t)=>{e.exports=t.p+"static/media/Breck_Abugan.003969b17e1070ada657.jpg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktrend_website=self.webpackChunktrend_website||[]).push([[8322],{8322:(e,s,t)=>{e.exports=t.p+"static/media/Lillian_Ta.2f0e4860af9304be8b88.jpg"}}]);

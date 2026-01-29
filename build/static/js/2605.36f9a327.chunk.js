@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktrend_website=self.webpackChunktrend_website||[]).push([[2605],{2605:(e,s,t)=>{e.exports=t.p+"static/media/Ashley_Djunaedi.3332eec5c75b719c78a0.jpeg"}}]);

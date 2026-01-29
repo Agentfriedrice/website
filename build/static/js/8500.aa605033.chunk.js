@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktrend_website=self.webpackChunktrend_website||[]).push([[8500],{8500:(e,s,t)=>{e.exports=t.p+"static/media/Kaleb_Payba.c549f5cd9960ca2832e1.jpg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktrend_website=self.webpackChunktrend_website||[]).push([[9467],{9467:(e,s,t)=>{e.exports=t.p+"static/media/Kevin_Tran.6a235cfa2bbb999a7730.JPG"}}]);

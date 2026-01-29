@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktrend_website=self.webpackChunktrend_website||[]).push([[4520],{4520:(e,s,t)=>{e.exports=t.p+"static/media/Zella_Lucas.397ff79fe4b8ae696f40.jpg"}}]);

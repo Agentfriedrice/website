@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktrend_website=self.webpackChunktrend_website||[]).push([[7915],{7915:(e,a,t)=>{e.exports=t.p+"static/media/Mariah_DeMordaunt.3032fa4f2aa70ba1482e.JPEG"}}]);

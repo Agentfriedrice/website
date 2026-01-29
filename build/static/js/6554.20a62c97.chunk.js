@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktrend_website=self.webpackChunktrend_website||[]).push([[6554],{6554:(e,a,t)=>{e.exports=t.p+"static/media/Taira_Sakamoto.9f6ceac3222b3d82430a.jpg"}}]);

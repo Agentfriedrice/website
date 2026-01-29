@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktrend_website=self.webpackChunktrend_website||[]).push([[3752],{3752:(e,s,t)=>{e.exports=t.p+"static/media/Sean_Desmond_Jones.4d83aff6af43dfd7f10f.JPG"}}]);

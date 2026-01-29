@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktrend_website=self.webpackChunktrend_website||[]).push([[6175],{6175:(e,s,t)=>{e.exports=t.p+"static/media/Elisa_Le.64832bd4df6cdb1476fd.jpg"}}]);

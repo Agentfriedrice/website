@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktrend_website=self.webpackChunktrend_website||[]).push([[1997],{1997:(e,a,t)=>{e.exports=t.p+"static/media/Jenny_Cannata.94ba0d4602b22bf5ab9a.jpeg"}}]);

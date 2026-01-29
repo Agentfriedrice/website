@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktrend_website=self.webpackChunktrend_website||[]).push([[4580],{4580:(e,d,s)=>{e.exports=s.p+"static/media/Roxanne_Mayali.749cdda16d9ddf41dc95.jpg"}}]);

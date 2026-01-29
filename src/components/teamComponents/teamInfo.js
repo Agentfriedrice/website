@@ -1,6 +1,6 @@
 export const teamInfo = [
   {
-    picture: () => import("../../static/team/Dan_Nepomuceno.CR3"),
+    picture: () => import("../../static/team/Dan_Nepomuceno.jpeg"),
     name: "Dan Nepomuceno",
     position: "Editor in Chief"
   },

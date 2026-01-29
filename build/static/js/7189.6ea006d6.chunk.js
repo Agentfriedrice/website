@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktrend_website=self.webpackChunktrend_website||[]).push([[7189],{7189:(e,c,s)=>{e.exports=s.p+"static/media/Sophia_Regier.b5e8c34cc035ca8a093c.jpeg"}}]);

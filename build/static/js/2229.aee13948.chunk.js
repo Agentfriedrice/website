@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktrend_website=self.webpackChunktrend_website||[]).push([[2229],{2229:(e,s,t)=>{e.exports=t.p+"static/media/Brina_Wang.5c5c6f4dd1401599266f.jpg"}}]);

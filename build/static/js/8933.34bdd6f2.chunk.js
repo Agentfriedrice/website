@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktrend_website=self.webpackChunktrend_website||[]).push([[8933],{8933:(e,s,t)=>{e.exports=t.p+"static/media/Perla_Perez.20577bdc28310ae4c501.JPG"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktrend_website=self.webpackChunktrend_website||[]).push([[2136],{2136:(e,s,t)=>{e.exports=t.p+"static/media/Miguel_Orozco.f1bd77e0ae85e9981ae8.jpeg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktrend_website=self.webpackChunktrend_website||[]).push([[8895],{8895:(e,s,t)=>{e.exports=t.p+"static/media/Nadine_Arugulles.faa593305cb98b21da5f.jpg"}}]);

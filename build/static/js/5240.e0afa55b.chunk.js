@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktrend_website=self.webpackChunktrend_website||[]).push([[5240],{5240:(e,s,t)=>{e.exports=t.p+"static/media/Celia_Monarch.f3899c37b276a0cd925b.jpg"}}]);

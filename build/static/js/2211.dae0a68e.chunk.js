@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktrend_website=self.webpackChunktrend_website||[]).push([[2211],{2211:(e,s,t)=>{e.exports=t.p+"static/media/Kaylie_Lai.4fbd2640b119372a2bce.jpg"}}]);

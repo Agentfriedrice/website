@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktrend_website=self.webpackChunktrend_website||[]).push([[8187],{8187:(e,t,s)=>{e.exports=s.p+"static/media/Arta_Abdolzadeh.25918ac60595bd501ed1.JPG"}}]);

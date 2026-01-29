@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktrend_website=self.webpackChunktrend_website||[]).push([[2204],{2204:(e,s,t)=>{e.exports=t.p+"static/media/Nikole_Munoz.549db4f42f4cbd0f219a.jpeg"}}]);

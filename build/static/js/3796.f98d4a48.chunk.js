@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktrend_website=self.webpackChunktrend_website||[]).push([[3796],{3796:(e,t,s)=>{e.exports=s.p+"static/media/Dani_Rodriguez_Arzate.71d7eae152d2d22f5c51.jpeg"}}]);

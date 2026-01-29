@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktrend_website=self.webpackChunktrend_website||[]).push([[7966],{7966:(e,s,t)=>{e.exports=t.p+"static/media/Camille_de_la_Cruz.7f3f83c4397a4e92e317.jpeg"}}]);

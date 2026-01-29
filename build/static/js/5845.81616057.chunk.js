@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktrend_website=self.webpackChunktrend_website||[]).push([[5845],{5845:(e,s,t)=>{e.exports=t.p+"static/media/Christopher_Cervantes.16d7677a896e19b2c99b.jpeg"}}]);

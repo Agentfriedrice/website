@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktrend_website=self.webpackChunktrend_website||[]).push([[9503],{9503:(e,s,t)=>{e.exports=t.p+"static/media/Lila_Ciambriello.03332072174852b11b90.jpg"}}]);

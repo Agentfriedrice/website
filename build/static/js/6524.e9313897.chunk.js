@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktrend_website=self.webpackChunktrend_website||[]).push([[6524],{6524:(e,s,t)=>{e.exports=t.p+"static/media/Sophie_Huynh.b71ea92e72b0050292a4.jpg"}}]);

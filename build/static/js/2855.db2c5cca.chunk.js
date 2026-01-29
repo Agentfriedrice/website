@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktrend_website=self.webpackChunktrend_website||[]).push([[2855],{2855:(e,s,t)=>{e.exports=t.p+"static/media/Amber_Chi.1b5d4ae3e3b686cc2265.jpg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktrend_website=self.webpackChunktrend_website||[]).push([[9427],{9427:(e,b,t)=>{e.exports=t.p+"static/media/Tabitha_Finamore.2b6f8366b86dbeb9bcfe.JPG"}}]);

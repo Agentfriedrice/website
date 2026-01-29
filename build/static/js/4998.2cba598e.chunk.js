@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktrend_website=self.webpackChunktrend_website||[]).push([[4998],{4998:(e,s,t)=>{e.exports=t.p+"static/media/Maggie_Jordan.2818de28dc3f5118cedf.jpg"}}]);

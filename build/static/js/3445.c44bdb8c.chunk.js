@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktrend_website=self.webpackChunktrend_website||[]).push([[3445],{3445:(e,s,t)=>{e.exports=t.p+"static/media/Sophie_Dornic.07e8458ab3d90a49046d.jpg"}}]);

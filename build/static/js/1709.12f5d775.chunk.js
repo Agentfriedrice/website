@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktrend_website=self.webpackChunktrend_website||[]).push([[1709],{1709:(e,s,t)=>{e.exports=t.p+"static/media/Kevin_Garcia.c121d826868eb901537a.jpeg"}}]);

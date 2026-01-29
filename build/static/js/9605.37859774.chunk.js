@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktrend_website=self.webpackChunktrend_website||[]).push([[9605],{9605:(e,s,t)=>{e.exports=t.p+"static/media/Anne_Vuong.b2582cd508df37221f8d.jpg"}}]);
