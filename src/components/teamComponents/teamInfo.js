@@ -110,6 +110,7 @@ export const teamInfo = [
     name: "Carlos Rocha",
     position: "Writer"
   },
+  /*
   {
     picture: () => import("../../static/team/blank.jpeg"),
     name: "Preeya Govil",
@@ -120,6 +121,7 @@ export const teamInfo = [
     name: "Sydney McDonald",
     position: "Writer"
   },
+  */
   {
     picture: () => import("../../static/team/Jon_Picinich.jpg"),
     name: "Jon Picinich",
@@ -163,11 +165,6 @@ export const teamInfo = [
   {
     picture: () => import("../../static/team/Dani_Rodriguez_Arzate.jpeg"),
     name: "Dani Rodriguez Arzate",
-    position: "External"
-  },
-  {
-    picture: () => import("../../static/team/Ryan_Freudiger.jpg"),
-    name: "Ryan Freudiger",
     position: "External"
   },
   {
