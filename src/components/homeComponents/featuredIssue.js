@@ -1,7 +1,7 @@
 import React from "react";
 import { Container, Row, Col } from "react-grid-system";
 import '../../styles/FeaturedIssue.scss';
-import FeaturedIssueGallery from "../issuesComponents/featuredIssueGallery";
+//cimport FeaturedIssueGallery from "../issuesComponents/featuredIssueGallery";
 import { LazyLoadImage } from "react-lazy-load-image-component";
 import cover from "../../static/issues/fervor.jpg";
 

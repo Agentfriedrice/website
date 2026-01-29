@@ -47,7 +47,7 @@ class YouTrend extends React.Component {
       key={index}
       className={`grid-item ${index % 2 === 0 ? "gray-bg" : "white-bg"}`}
     >
-      <img src={imgSrc} alt={`Grid Image ${index + 1}`} />
+      <img src={imgSrc} alt={`Grid item ${index + 1}`} />
     </div>
   ))}
 </div>
