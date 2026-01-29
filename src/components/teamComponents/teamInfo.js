@@ -151,7 +151,7 @@ export const teamInfo = [
     position: "Graphic Designer"
   },
   {
-    picture: () => import("../../static/team/Viviana_Espino.jpeg"),
+    picture: () => import("../../static/team/Viviana_Espino.JPG"),
     name: "Viviana Espino",
     position: "External"
   },
