@@ -146,6 +146,11 @@ export const teamInfo = [
     position: "Graphic Designer"
   },
   {
+    picture: () => import("../../static/team/Renee_Agatep.jpg"),
+    name: "Renee Agatep",
+    position: "Graphic Designer"
+  },
+  {
     picture: () => import("../../static/team/Amber_Chi.jpg"),
     name: "Amber Chi",
     position: "Graphic Designer"
@@ -388,7 +393,7 @@ export const teamInfo = [
   },
     {
     //change
-    picture: () => import("../../static/team/Olivia_Garrett.JPG"),
+    picture: () => import("../../static/team/Roxanne_Wang.jpg"),
     name: "Roxanne Wang",
     position: "Web Developer"
   },
