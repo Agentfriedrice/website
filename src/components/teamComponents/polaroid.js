@@ -3,7 +3,7 @@ import { LazyLoadImage } from "react-lazy-load-image-component";
 import "react-lazy-load-image-component/src/effects/blur.css";
 import "../../styles/polaroid.scss";
 
-const Polaroid = ({ picture, name, position, pronouns, major, about }) => {
+const Polaroid = ({ picture, name, position, pronouns, major, about, portfolio }) => {
   const [imageSrc, setImageSrc] = useState(null);
   const [hovered, setHovered] = useState(false);
 
@@ -35,7 +35,7 @@ const Polaroid = ({ picture, name, position, pronouns, major, about }) => {
           )}
 
           {/* 🔥 Hover Overlay */}
-          {hovered && (pronouns || major || about) && (
+          {hovered && (pronouns || major || about || portfolio) && (
             <div className="polaroid-hover-overlay">
               <h5>{name}</h5>
 
@@ -49,6 +49,10 @@ const Polaroid = ({ picture, name, position, pronouns, major, about }) => {
 
               {about && (
                 <p className="hover-about">{about}</p>
+              )}
+
+              {portfolio && (
+                <p className="hover-about">{portfolio}</p>
               )}
             </div>
           )}

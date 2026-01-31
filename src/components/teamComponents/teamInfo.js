@@ -6,6 +6,7 @@ export const teamInfo = [
     pronouns: "he/him",
     major: "International Business",
     about: "Besides serving as Editor-in-Chief, I am an independent fashion designer whose work explores narratives related to personal identity and culture, using fashion as a way of storytelling. I enjoy learning other languages, cooking, and reading!"
+    portfolio: "@cxthexis on Instagram for my designs"
   },
   {
     picture: () => import("../../static/team/Maggie_Blaisdell.jpg"),

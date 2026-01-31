@@ -35,6 +35,7 @@ class TeamGrid extends React.Component {
                   pronouns={teamMember.pronouns}
                   major={teamMember.major}
                   about={teamMember.about}
+                  portfolio={teamMember.portfolio}
                 />
               </div>
             </Col>
