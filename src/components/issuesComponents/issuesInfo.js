@@ -1,5 +1,5 @@
 export const issuesInfo = [
-  { 
+  { //issues not working: tide, out of bounds
     picture: require("../../static/issues/fervor.jpg"),
     title: "Fervor",
     link: "https://heyzine.com/flip-book/b50653e2ad.html", // Placeholder link - update when live
@@ -20,7 +20,7 @@ export const issuesInfo = [
   { 
     picture: require("../../static/issues/An_Homage.jpg"),
     title: "An Homage to: ",
-    link: "https://heyzine.com/flip-book/15a15f7e18.html", // Placeholder link - update when live
+    link: "https://heyzine.com/flip-book/2e842051e7.html", // Placeholder link - update when live
     description: "Over the summer, TREND members got together to create our very first summer zine, paying homage to the work of 3 designers\n\n" +
 "- Martin Margiela (Dan Nepomuceno, Silvia Lee, Krista Vener, Ahliyah Luna, Preeya Govil)\n" +
 
